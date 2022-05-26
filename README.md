@@ -1,6 +1,6 @@
 # Projeto Git Github --- Compass.UOL
 
-- Projeto desenvolvido em Java para implementação da classe Quadrado.
+- Projeto desenvolvido em Java para implementação da classe Retangulo.
 
 ## Quadrado
 ### Atríbutos
