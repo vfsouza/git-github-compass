@@ -23,6 +23,6 @@ public class Retangulo {
     }
 
     public float perimetro() {
-        return (lado * 2) + (altura * 2);
+        return lado + lado + altura + altura;
     }
 }
