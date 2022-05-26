@@ -3,8 +3,8 @@ public class Retangulo {
     private float altura;
 
     public Retangulo() {
-        lado = 0f;
-        altura = 0f;
+        lado = 0.0f;
+        altura = 0.0f;
     }
 
     public Retangulo(float lado, float altura) {
