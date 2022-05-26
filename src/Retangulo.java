@@ -2,6 +2,16 @@ public class Retangulo {
     private float lado;
     private float altura;
 
+    public Retangulo() {
+        lado = 0f;
+        altura = 0f;
+    }
+
+    public Retangulo(float lado, float altura) {
+        this.lado = lado;
+        this.altura = altura;
+    }
+
     public float getLado() {
         return lado;
     }
